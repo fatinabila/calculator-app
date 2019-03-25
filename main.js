@@ -6259,7 +6259,7 @@ module.exports = "\r\n.sidenav {\r\n    height: 100%;\r\n    width:250px;\r\n   
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"sidenav\">\r\n\r\n    <div class=\"calc-wrapper\">\r\n        <img src=\"../assets/img/calculator.png\">\r\n    </div>\r\n\r\n    <div class=\"heading\">Calculator</div>\r\n\r\n    <div class=\"menu-wrapper\">\r\n        <a routerLink=\"/\"><img class=\"icon-menu\" src=\"../assets/img/home.png\"> Home</a>\r\n        <a routerLink=\"/history\"><img class=\"icon-menu\" src=\"../assets/img/history.png\"> History</a>\r\n    </div>\r\n\r\n</div>\r\n\r\n<!-- page changes here -->\r\n\r\n<router-outlet> </router-outlet>\r\n\r\n<!-- page changes here -->"
+module.exports = "<div class=\"sidenav\">\r\n\r\n    <div class=\"calc-wrapper\">\r\n        <img src=\"../../assets/img/calculator.png\">\r\n    </div>\r\n\r\n    <div class=\"heading\">Calculator</div>\r\n\r\n    <div class=\"menu-wrapper\">\r\n        <a routerLink=\"/\"><img class=\"icon-menu\" src=\"../../assets/img/home.png\"> Home</a>\r\n        <a routerLink=\"/history\"><img class=\"icon-menu\" src=\"../../assets/img/history.png\"> History</a>\r\n    </div>\r\n\r\n</div>\r\n\r\n<!-- page changes here -->\r\n\r\n<router-outlet> </router-outlet>\r\n\r\n<!-- page changes here -->"
 
 /***/ }),
 
@@ -6431,7 +6431,7 @@ module.exports = ".wrapper, .msg-wrap {\r\n    width: 50%;\r\n    margin: auto;\
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"wrapper\">\r\n\r\n  <li *ngFor=\"let item of history\">\r\n   \r\n    <div class=\"flex\"  class=\"item\">\r\n      <div>{{ item.history }}</div>\r\n      <div (click)=deleteHistory(item.id) class=\"delete\"><img src=\"../../assets/img/multiply.svg\"></div>\r\n    </div>\r\n\r\n  </li>\r\n\r\n</div>\r\n\r\n<div class=\"msg-wrap\" *ngIf=\"empty\" [ngClass]=\"{'history-empty ': empty, 'history-not-empty ': !empty }\">\r\n\r\n  <div class=\"h4\">\r\n      No history yet :(\r\n  </div>\r\n  \r\n</div>\r\n\r\n"
+module.exports = "<div class=\"wrapper\">\r\n\r\n  <li *ngFor=\"let item of history\">\r\n   \r\n    <div class=\"flex\"  class=\"item\">\r\n      <div>{{ item.history }}</div>\r\n      <div (click)=deleteHistory(item.id) class=\"delete\"><img src=\"../../../assets/img/multiply.svg\"></div>\r\n    </div>\r\n\r\n  </li>\r\n\r\n</div>\r\n\r\n<div class=\"msg-wrap\" *ngIf=\"empty\" [ngClass]=\"{'history-empty ': empty, 'history-not-empty ': !empty }\">\r\n\r\n  <div class=\"h4\">\r\n      No history yet :(\r\n  </div>\r\n  \r\n</div>\r\n\r\n"
 
 /***/ }),
 
