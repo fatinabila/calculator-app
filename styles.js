@@ -555,7 +555,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\seetru16\Desktop\Angular Projects\angular-calculator-code\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\LENOVO\Desktop\ng projects\angular-calculator-code\src\styles.css */"./src/styles.css");
 
 
 /***/ })

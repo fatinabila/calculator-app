@@ -6248,7 +6248,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\r\n.sidenav {\r\n    height: 100%;\r\n    width:250px;\r\n    position: fixed;\r\n    z-index: 1;\r\n    top: 0;\r\n    left: 0;\r\n    background-color: #fff;\r\n    overflow-x: hidden;\r\n    padding-top: 20px;\r\n  }\r\n\r\n  .heading {\r\n    color: #333;\r\n    width:100%;\r\n    padding:0px;\r\n  }\r\n\r\n  .sidenav a {\r\n    padding: 10px 15px;\r\n    text-decoration: none;\r\n    font-size: 25px;\r\n    color: #333;\r\n    display: block;\r\n    font-size:15px;\r\n    font-family: 'Merriweather', serif;\r\n  }\r\n\r\n  .calc-wrapper {\r\n    margin: auto;\r\n    width: 30%;\r\n    margin-bottom: 15px;\r\n  }\r\n\r\n  .icon-menu {\r\n    width:30px;\r\n    height:30px;\r\n    margin-right:15px;\r\n    margin-top: -5px;\r\n  }\r\n\r\n  .menu-wrapper {\r\n    width: 65%;\r\n    margin: 45px auto;\r\n  }\r\n\r\n  .github {\r\n    width: 50px;\r\n    margin: auto;\r\n    position: absolute;\r\n    bottom: 60px;\r\n    right: 0;\r\n    left: 0;\r\n  }\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBO0lBQ0ksYUFBYTtJQUNiLFlBQVk7SUFDWixnQkFBZ0I7SUFDaEIsV0FBVztJQUNYLE9BQU87SUFDUCxRQUFRO0lBQ1IsdUJBQXVCO0lBQ3ZCLG1CQUFtQjtJQUNuQixrQkFBa0I7R0FDbkI7O0VBRUQ7SUFDRSxZQUFZO0lBQ1osV0FBVztJQUNYLFlBQVk7R0FDYjs7RUFFRDtJQUNFLG1CQUFtQjtJQUNuQixzQkFBc0I7SUFDdEIsZ0JBQWdCO0lBQ2hCLFlBQVk7SUFDWixlQUFlO0lBQ2YsZUFBZTtJQUNmLG1DQUFtQztHQUNwQzs7RUFFRDtJQUNFLGFBQWE7SUFDYixXQUFXO0lBQ1gsb0JBQW9CO0dBQ3JCOztFQUdEO0lBQ0UsV0FBVztJQUNYLFlBQVk7SUFDWixrQkFBa0I7SUFDbEIsaUJBQWlCO0dBQ2xCOztFQUVEO0lBQ0UsV0FBVztJQUNYLGtCQUFrQjtHQUNuQjs7RUFHRDtJQUNFLFlBQVk7SUFDWixhQUFhO0lBQ2IsbUJBQW1CO0lBQ25CLGFBQWE7SUFDYixTQUFTO0lBQ1QsUUFBUTtHQUNUIiwiZmlsZSI6InNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuLnNpZGVuYXYge1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG4gICAgd2lkdGg6MjUwcHg7XHJcbiAgICBwb3NpdGlvbjogZml4ZWQ7XHJcbiAgICB6LWluZGV4OiAxO1xyXG4gICAgdG9wOiAwO1xyXG4gICAgbGVmdDogMDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7XHJcbiAgICBvdmVyZmxvdy14OiBoaWRkZW47XHJcbiAgICBwYWRkaW5nLXRvcDogMjBweDtcclxuICB9XHJcblxyXG4gIC5oZWFkaW5nIHtcclxuICAgIGNvbG9yOiAjMzMzO1xyXG4gICAgd2lkdGg6MTAwJTtcclxuICAgIHBhZGRpbmc6MHB4O1xyXG4gIH1cclxuICBcclxuICAuc2lkZW5hdiBhIHtcclxuICAgIHBhZGRpbmc6IDEwcHggMTVweDtcclxuICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclxuICAgIGZvbnQtc2l6ZTogMjVweDtcclxuICAgIGNvbG9yOiAjMzMzO1xyXG4gICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICBmb250LXNpemU6MTVweDtcclxuICAgIGZvbnQtZmFtaWx5OiAnTWVycml3ZWF0aGVyJywgc2VyaWY7XHJcbiAgfVxyXG5cclxuICAuY2FsYy13cmFwcGVyIHtcclxuICAgIG1hcmdpbjogYXV0bztcclxuICAgIHdpZHRoOiAzMCU7XHJcbiAgICBtYXJnaW4tYm90dG9tOiAxNXB4O1xyXG4gIH1cclxuICBcclxuXHJcbiAgLmljb24tbWVudSB7XHJcbiAgICB3aWR0aDozMHB4O1xyXG4gICAgaGVpZ2h0OjMwcHg7XHJcbiAgICBtYXJnaW4tcmlnaHQ6MTVweDtcclxuICAgIG1hcmdpbi10b3A6IC01cHg7XHJcbiAgfVxyXG5cclxuICAubWVudS13cmFwcGVyIHtcclxuICAgIHdpZHRoOiA2NSU7XHJcbiAgICBtYXJnaW46IDQ1cHggYXV0bztcclxuICB9XHJcblxyXG5cclxuICAuZ2l0aHViIHtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgbWFyZ2luOiBhdXRvO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgYm90dG9tOiA2MHB4O1xyXG4gICAgcmlnaHQ6IDA7XHJcbiAgICBsZWZ0OiAwO1xyXG4gIH0iXX0= */"
+module.exports = "\r\n.sidenav {\r\n    height: 100%;\r\n    width:300px;\r\n    position: fixed;\r\n    z-index: 1;\r\n    top: 0;\r\n    left: 0;\r\n    background-color: #fff;\r\n    overflow-x: hidden;\r\n    padding-top: 45px;\r\n  }\r\n\r\n  .heading {\r\n    color: #333;\r\n    width:100%;\r\n    padding:0px;\r\n  }\r\n\r\n  .sidenav a {\r\n    padding: 10px 15px;\r\n    text-decoration: none;\r\n    font-size: 25px;\r\n    color: #333;\r\n    display: block;\r\n    font-size:15px;\r\n    font-family: 'Merriweather', serif;\r\n  }\r\n\r\n  .calc-wrapper {\r\n    margin: auto;\r\n    width: 30%;\r\n    margin-bottom: 15px;\r\n  }\r\n\r\n  .icon-menu {\r\n    width:30px;\r\n    height:30px;\r\n    margin-right:15px;\r\n    margin-top: -5px;\r\n  }\r\n\r\n  .menu-wrapper {\r\n    width: 65%;\r\n    margin: 45px auto;\r\n  }\r\n\r\n  .github {\r\n    width: 50px;\r\n    margin: auto;\r\n    position: absolute;\r\n    bottom: 60px;\r\n    right: 0;\r\n    left: 0;\r\n  }\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUNBO0lBQ0ksYUFBYTtJQUNiLFlBQVk7SUFDWixnQkFBZ0I7SUFDaEIsV0FBVztJQUNYLE9BQU87SUFDUCxRQUFRO0lBQ1IsdUJBQXVCO0lBQ3ZCLG1CQUFtQjtJQUNuQixrQkFBa0I7R0FDbkI7O0VBRUQ7SUFDRSxZQUFZO0lBQ1osV0FBVztJQUNYLFlBQVk7R0FDYjs7RUFFRDtJQUNFLG1CQUFtQjtJQUNuQixzQkFBc0I7SUFDdEIsZ0JBQWdCO0lBQ2hCLFlBQVk7SUFDWixlQUFlO0lBQ2YsZUFBZTtJQUNmLG1DQUFtQztHQUNwQzs7RUFFRDtJQUNFLGFBQWE7SUFDYixXQUFXO0lBQ1gsb0JBQW9CO0dBQ3JCOztFQUdEO0lBQ0UsV0FBVztJQUNYLFlBQVk7SUFDWixrQkFBa0I7SUFDbEIsaUJBQWlCO0dBQ2xCOztFQUVEO0lBQ0UsV0FBVztJQUNYLGtCQUFrQjtHQUNuQjs7RUFHRDtJQUNFLFlBQVk7SUFDWixhQUFhO0lBQ2IsbUJBQW1CO0lBQ25CLGFBQWE7SUFDYixTQUFTO0lBQ1QsUUFBUTtHQUNUIiwiZmlsZSI6InNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuLnNpZGVuYXYge1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG4gICAgd2lkdGg6MzAwcHg7XHJcbiAgICBwb3NpdGlvbjogZml4ZWQ7XHJcbiAgICB6LWluZGV4OiAxO1xyXG4gICAgdG9wOiAwO1xyXG4gICAgbGVmdDogMDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7XHJcbiAgICBvdmVyZmxvdy14OiBoaWRkZW47XHJcbiAgICBwYWRkaW5nLXRvcDogNDVweDtcclxuICB9XHJcblxyXG4gIC5oZWFkaW5nIHtcclxuICAgIGNvbG9yOiAjMzMzO1xyXG4gICAgd2lkdGg6MTAwJTtcclxuICAgIHBhZGRpbmc6MHB4O1xyXG4gIH1cclxuICBcclxuICAuc2lkZW5hdiBhIHtcclxuICAgIHBhZGRpbmc6IDEwcHggMTVweDtcclxuICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclxuICAgIGZvbnQtc2l6ZTogMjVweDtcclxuICAgIGNvbG9yOiAjMzMzO1xyXG4gICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICBmb250LXNpemU6MTVweDtcclxuICAgIGZvbnQtZmFtaWx5OiAnTWVycml3ZWF0aGVyJywgc2VyaWY7XHJcbiAgfVxyXG5cclxuICAuY2FsYy13cmFwcGVyIHtcclxuICAgIG1hcmdpbjogYXV0bztcclxuICAgIHdpZHRoOiAzMCU7XHJcbiAgICBtYXJnaW4tYm90dG9tOiAxNXB4O1xyXG4gIH1cclxuICBcclxuXHJcbiAgLmljb24tbWVudSB7XHJcbiAgICB3aWR0aDozMHB4O1xyXG4gICAgaGVpZ2h0OjMwcHg7XHJcbiAgICBtYXJnaW4tcmlnaHQ6MTVweDtcclxuICAgIG1hcmdpbi10b3A6IC01cHg7XHJcbiAgfVxyXG5cclxuICAubWVudS13cmFwcGVyIHtcclxuICAgIHdpZHRoOiA2NSU7XHJcbiAgICBtYXJnaW46IDQ1cHggYXV0bztcclxuICB9XHJcblxyXG5cclxuICAuZ2l0aHViIHtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgbWFyZ2luOiBhdXRvO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgYm90dG9tOiA2MHB4O1xyXG4gICAgcmlnaHQ6IDA7XHJcbiAgICBsZWZ0OiAwO1xyXG4gIH0iXX0= */"
 
 /***/ }),
 
@@ -6605,18 +6605,21 @@ var calculatorComponent = /** @class */ (function () {
         this.firstNum = undefined;
         this.secondNum = undefined;
     };
+    /**** Get number typed by the user ****/
     calculatorComponent.prototype.calc = function (number) {
         this.num.push(number);
         this.numTyped = this.num.join('');
-        this.updateCalcProcess();
     };
+    /**** Show calculation process  ****/
     calculatorComponent.prototype.updateCalcProcess = function () {
         this.calculationProcess = this.calcString.join('');
     };
+    /*** Reset the number typed ****/
     calculatorComponent.prototype.clearTyping = function () {
         this.numTyped = 0;
         this.num = [];
     };
+    /** Check if the last element in the calcString is also an operator. If yes, replace the operator  ****/
     calculatorComponent.prototype.checkOperator = function (operator) {
         var lastElement = this.calcString[this.calcString.length - 1];
         if (this.calcString.length > 0) {
@@ -6629,6 +6632,7 @@ var calculatorComponent = /** @class */ (function () {
             }
         }
     };
+    /*** Update calculation as new operator is entered ****/
     calculatorComponent.prototype.operator = function (type) {
         this.numTyped = parseFloat(this.numTyped);
         if (this.numTyped != 0) {
@@ -6646,10 +6650,11 @@ var calculatorComponent = /** @class */ (function () {
         this.updateCalcProcess();
         this.clearTyping();
     };
+    /**** calculation() : Called either from funtion operator() or getResult()  ****/
     calculatorComponent.prototype.calculation = function () {
         if (this.firstNum != undefined && this.secondNum != undefined) {
             var lastOperatorInArray = void 0;
-            // Check if user call calculation() from getResult()
+            /**** Check if function called from getResult()  ****/
             typeof lastOperatorInArray == "number" ? lastOperatorInArray = this.calcString[this.calcString.length - 1] : lastOperatorInArray = this.calcString[this.calcString.length - 2];
             if (lastOperatorInArray == " + ") {
                 this.displayResult = this.firstNum + this.secondNum;
@@ -6669,17 +6674,19 @@ var calculatorComponent = /** @class */ (function () {
             this.displayResult = this.firstNum;
         }
     };
+    /**** getResult() : considering if user enter '=' when first and second number is not entered yet ****/
     calculatorComponent.prototype.getResult = function () {
-        // Check if user already typed the first number
         if (this.firstNum != undefined) {
             this.secondNum = parseFloat(this.numTyped);
-            //check if user press '=' when user don't type the second number yet
             if (this.secondNum != 0) {
                 this.calcString.push(this.secondNum);
                 this.calculation();
                 this.updateCalcProcess();
                 this.historyService.addHistory("" + this.calculationProcess + " = " + this.displayResult);
                 this.clearTyping();
+                this.firstNum = undefined;
+                this.secondNum = undefined;
+                this.calcString = [];
             }
         }
     };
@@ -6867,7 +6874,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\seetru16\Desktop\Angular Projects\angular-calculator-code\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\Users\LENOVO\Desktop\ng projects\angular-calculator-code\src\main.ts */"./src/main.ts");
 
 
 /***/ })
